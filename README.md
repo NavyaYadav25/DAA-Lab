@@ -13,14 +13,14 @@
 
 <br>
 
-# PYTHON PROGRAMMING LAB
+# DAA LAB
 
 ### LAB RECORD
 
 <br><br>
 
-**Student Name:** PARISHI MATHUR
-**Enrollment Number:** 240075
+**Student Name:** NAVYA YADAV 
+**Enrollment Number:** 240068
 
 <br>
 
@@ -40,7 +40,6 @@ Lakshmangarh, Rajasthan
 
 # INDEX
 
-# INDEX
 
 <table style="width:100%; border-collapse:collapse;">
   <tr>
@@ -126,7 +125,7 @@ Lakshmangarh, Rajasthan
   <tr>
     <td>15</td>
     <td>Directed Weighted Graph</td>
-    <td><a href="#program-15-Directed-Weighted-Graph">Program 14</a></td>
+    <td><a href="#program-15-Directed-Weighted-Graph">Program 15</a></td>
   </tr>
 </table>
 
